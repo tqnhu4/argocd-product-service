@@ -2,7 +2,7 @@ name: Build & Push Auth Service
 
 on:
   push:
-    branches: ["dev"]
+    branches: ["main"]
 
 env:
   IMAGE_NAME: tqnhu4/product-service
