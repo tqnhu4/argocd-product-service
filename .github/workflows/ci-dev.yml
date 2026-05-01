@@ -1,4 +1,4 @@
-name: Build & Push Auth Service
+name: Build & Push Product Service on Dev
 
 on:
   push:
